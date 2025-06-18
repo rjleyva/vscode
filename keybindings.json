@@ -1,5 +1,4 @@
 [
-  // File & Explorer Commands
   {
     "key": "cmd+d d",
     "command": "moveFileToTrash",
@@ -29,7 +28,6 @@
     "comment": "Show new file entries in welcome screen"
   },
 
-  // Git Commands
   {
     "key": "cmd+g cmd+g",
     "command": "git-graph.view",
@@ -51,7 +49,6 @@
     "comment": "Push changes to the remote Git repository"
   },
 
-  // UI and View Toggle Commands
   {
     "key": "ctrl+o e",
     "command": "workbench.action.toggleSidebarVisibility",
@@ -63,7 +60,6 @@
     "comment": "Toggle visibility of the auxiliary bar"
   },
 
-  // Commenting in Editor
   {
     "key": "cmd+l c",
     "command": "editor.action.addCommentLine",
