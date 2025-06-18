@@ -10,6 +10,6 @@ My current VSCode configuration is based on a fantastic [YouTube video by Igor B
 
 Happy VSCoding!
 
-## **Archived**:
+## Archived
 
 This repository is no longer maintained. I customized VS Code briefly and am no longer using it. The content is preserved for reference only.
